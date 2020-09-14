@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hyojun's blog"
 description              : "Machine Learning, Deep Learning, Data Engineering"
-url                      : "https://hyojunkim0614.github.io"
+url                      : "https://hyojunkim0614.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "hyojunkim0614/hyojunkim0614.github.io"
 teaser                   : "/assets/images/500x300.png"
